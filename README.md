@@ -1,2 +1,2 @@
 # node-projects
-Creating to learn NodeJs, jQuery features
+Creating to test React JS, Redux and all react codes
